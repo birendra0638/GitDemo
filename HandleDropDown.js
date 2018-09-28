@@ -38,6 +38,8 @@ describe("How to play with dropdown", function() {
 								console.log(columnText);
 								console.log("columnText1");
 								console.log("columnText2");
+								console.log("columnText3");
+								console.log("columnText4");
 							})
 				})
 
