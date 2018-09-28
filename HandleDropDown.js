@@ -31,6 +31,11 @@ describe("How to play with dropdown", function() {
 							function(columnText) {
 								console.log(columnText);
 								console.log(columnText);
+								console.log(columnText);
+								console.log(columnText);
+								console.log(columnText);
+								console.log(columnText);
+								console.log(columnText);
 							})
 				})
 
