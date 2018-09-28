@@ -30,6 +30,7 @@ describe("How to play with dropdown", function() {
 					row.element(by.css("td:nth-child(3)")).getText().then(
 							function(columnText) {
 								console.log(columnText);
+								console.log(columnText);
 							})
 				})
 
